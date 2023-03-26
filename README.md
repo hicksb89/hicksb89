@@ -1,1 +1,2 @@
-# hicks-cycs1200
+# Brendan Hicks
+WMU Sophomore Computer Science Student
