@@ -1,2 +1,2 @@
-# Brendan Hicks :smiley_cat: 
+# Brendan Hicks :smirk_cat: 
 WMU Sophomore Computer Science Student
